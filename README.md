@@ -17,9 +17,6 @@ Enjoy the interactive drumming experience!
 Code Overview
 The project is structured with HTML for the layout, CSS for styling, and JavaScript for the interactive functionality. The main script (index.js) handles the event listeners for button clicks and keyboard input, triggering the appropriate drum sounds and animations.
 
-Demo
-For a live demo of the Drum Kit Web App, visit [Demo Link].
-
 Feel free to explore, modify, and integrate this Drum Kit into your projects. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 Happy drumming! 🥁
